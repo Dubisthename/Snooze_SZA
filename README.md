@@ -1,1 +1,83 @@
 # Sza_Lyrics
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SZA Lyrics</title>
+</head>
+<body style="background-color:#ADD8E6
+;">
+    <h1>Snooze</h1>
+    <img src="sza.jpg" alt="Album Cover" height="200">
+    <h3>Song by SZA</h3>
+    <a href="https://www.youtube.com/watch?v=LDY_XyxBu8A&ab_channel=SZAVEVO" target="_blank">
+Music Video
+    </a>
+    <hr>
+    <pre><strong>
+I'll touch that fire for you
+I do that three, four times again, I testify for you
+I told that lie, I'd kill that bitch
+I do what all of them around you scared to do, I'm not
+Long as you juggin' out here for me, I got it
+Mobbin', schemin', lootin', hide your bodies
+Long as you dreamin' 'bout me, ain't no problem
+I don't got nobody, just with you right now
+Tell the truth, I look better under you
+<br>
+I can't lose when I'm with you
+How can I snooze and miss the moment?
+You just too important
+Nobody do body like you do
+I can't lose when I'm with you
+I can't just snooze and miss the moment
+You just too important
+Nobody do body like you do, you do
+<br>
+In the droptop ride with you, I feel like Scarface (Scarface)
+Like that white bitch with the bob, I'll be your main one (main one)
+Let's take this argument back up to place
+Sex remind you, I'm nonviolent, I'm your day one
+We ain't had shit, yeah, it was magic, yeah
+Smash and grab shit, yeah
+Nasty habits take a hold when you not here
+Ain't a home when you not here
+Hard to grow when you not here, I'm sayin'
+<br>
+I can't lose when I'm with you
+How can I snooze and miss the moment?
+You just too important
+Nobody do body like you do
+I can't lose when I'm with you
+How can I snooze and miss the moment?
+You just too important
+Nobody do body like you do, you do
+<br>
+Main one ridin'
+How you frontin' on me and I'm the main one tryin'?
+How you blame it on me and you the main one lyin'?
+How you threatenin' to leave and I'm the main one cryin'?
+Just tryna be your everything
+Main one ridin'
+How you frontin' on me and I'm the main one tryin'?
+How you blame it on me and you the main one lyin'?
+How you threatenin' to leave and I'm the main one cryin'?
+<br>
+I can't lose when I'm with you, ooh
+How can I snooze and miss the moment?
+You just too important
+Nobody do body like you do
+I can't lose when I'm with you
+How can I snooze and miss the moment?
+You just too important
+Nobody do body like you do, you do
+<br>
+Nah, nah, nah, nah
+I think I know, whoa-oh
+See, no, I can't lose
+I think I know, ooh-whoa, ooh-whoa-oh
+   </strong> </pre>
+   <p>Lyrics From LyricFind</p>
+</body>
+</html>
